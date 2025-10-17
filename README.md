@@ -1,5 +1,3 @@
----
-
 ## 🧾 Licencia
 
 Este trabajo está protegido por derechos de autor © 2025 Ezequiel González.  
